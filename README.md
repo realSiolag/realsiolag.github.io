@@ -1,5 +1,5 @@
 # realsiolag.github.io
-# 👋 Hi, I'm Siolg
+# 👋 Hi, I'm Siolag
 
 Welcome to my GitHub profile!  
 
